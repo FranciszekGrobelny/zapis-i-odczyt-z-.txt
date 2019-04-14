@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519765707 source:c:\users\franek\desktop\c++\odczyt\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
